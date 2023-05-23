@@ -1,0 +1,1 @@
+This folder contains the complementary results of the phylobetadiversity analyzes inferred by the scripts available in https://github.com/chouerik/PE_manuscript/tree/main/phylospatial_scripts/06_phylobetadiversity
