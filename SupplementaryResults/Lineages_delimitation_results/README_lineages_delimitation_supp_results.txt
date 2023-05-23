@@ -1,0 +1,1 @@
+Here, the lineages delimitation resulting from the consensus between the proposals obtained by the bGMYC, mPTP and ASAP are made available. The scripts used in bGMYC and the command lines used in mPTP are available at https://github.com/chouerik/PE_manuscript/tree/main/phylospatial_scripts/01_lineages_delimitation
