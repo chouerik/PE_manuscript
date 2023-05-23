@@ -3,6 +3,7 @@ This folder constains the scripts used to delimit lineages based on the hypothes
 1. BGMYC:
 The bGMYC script computed in R environment is available in ‘01_Lineages_delimitation_bGMYC.R’. bGMYC requires R version 3 and ‘ape’ package version 3.5. Details about packages and functions can be found in the R script comments. 
 In addition to the conventional bGMYC results, the R script generates a list with the proposed lineages delimited for each threshold of posterior probability.
+The upload of the file containing the multiple trees inferred by BEAST was only possible by compressing it. Please unzip it before running the example executable.
 
 2. MPTP:
 
