@@ -1,0 +1,1 @@
+This folder contains the phylogenetic trees inferred in MrBayes and BEAST for each genus covered in this study. Details about these analyzes are provided in the main text and supplementary material of the manuscript.
