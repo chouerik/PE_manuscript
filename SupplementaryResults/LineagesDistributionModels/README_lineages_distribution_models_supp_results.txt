@@ -1,0 +1,1 @@
+Here, the lineages distribution models inferred by the method described by Rosauer et al. (2015), following the scripts available at https://github.com/chouerik/PE_manuscript/tree/main/phylospatial_scripts/03_lineages_distribution_models
