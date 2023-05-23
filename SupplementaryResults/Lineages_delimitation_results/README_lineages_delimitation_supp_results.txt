@@ -1,1 +1,4 @@
-Here, the lineages delimitation resulting from the consensus between the proposals obtained by the bGMYC, mPTP and ASAP are made available. The scripts used in bGMYC and the command lines used in mPTP are available at https://github.com/chouerik/PE_manuscript/tree/main/phylospatial_scripts/01_lineages_delimitation
+Here, the lineages delimitation resulting from the consensus between the proposals obtained by the bGMYC, mPTP and ASAP are made available.
+Colored bars represent the proposal obtained for each bGMYC threshold, with dashed rectangles indicating the proposal of greater agreement with the results of mPTP and/or ASAP (both represented by black bars). In the absence of agreement between methods, the suggestion proposed by the intermediate bGMYC threshold (marked with an asterisk) was selected. The consensus delimitation hypothesis is represented by the black rectangles above “Cons.”. Node support values are represented by the color code described in the figure.
+
+The scripts used in bGMYC and the command lines used in mPTP are available at https://github.com/chouerik/PE_manuscript/tree/main/phylospatial_scripts/01_lineages_delimitation
